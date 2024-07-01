@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tushardhurandhar
-- 👀 I’m interested in Data science , AI,ML, and data analytic
-- 🌱 I’m learn Python , MS Excel , SQL , Power BI
-- 💞️ I’m looking to collaborate on Data related project and ML projects
+- 👀 I’m interested in Data science,Data Engineering and analytic
+- 🌱 I’m learn Python , AWS , MS Excel , SQL , Power BI
+- 💞️ I’m looking to collaborate on Data related project 
 - 📫 How to reach me ...
 
 <!---
